@@ -1,0 +1,11 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Tab Manager",
+	"description": "Keep all your tabs under control and define their behavior.",
+	"version": "1.0",
+
+	"permissions": [
+		"tabs"
+	]
+}
