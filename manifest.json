@@ -16,6 +16,24 @@
 				"default": "Alt+T"
 			},
 			"description": "Open new Closer Tab"
+		},
+		"highlight-left": {
+			"suggested_key": {
+				"default": "Alt+Shift+Left"
+			},
+			"description": "Additionally highlight tab to the left"
+		},
+		"highlight-right": {
+			"suggested_key": {
+				"default": "Alt+Shift+Right"
+			},
+			"description": "Additionally highlight tab to the right"
+		},
+		"poptabs": {
+			"suggested_key": {
+				"default": "Alt+N"
+			},
+			"description": "Pop highlighted tabs to new window"
 		}
 	}
 }
